@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UC3PalindromeCheckerApp {
+public class UCgit push origin UC3-ReverseStringPalindrome3PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
